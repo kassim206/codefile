@@ -1,0 +1,6 @@
+Subset size: 300
+Accuracy: 92.33%
+EER: 14.29%
+ROC-AUC: 0.9263
+Protocol file: ASVspoof2019.LA.cm.eval.trl.txt
+Date: (today)
