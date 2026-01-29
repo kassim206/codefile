@@ -85,4 +85,17 @@ Kinnunen et al., Tandem Detection Cost Function for ASV Spoofing, Odyssey 2018.
 Mohammed Kassim Cherukodan
 Master’s Student – Applied Informatics
 Research Project (3)
+
 ```bash
+## 📂 Repository Structure
+
+```text
+codefile/
+├── src/
+│   ├── plot_scores.py
+│   └── confusionmatrix.py
+├── results/
+│   └── score_hist.png
+├── README.md
+├── .gitignore
+└── requirements.txt
