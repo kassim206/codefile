@@ -50,7 +50,7 @@ python src/plot_scores.py
 
 ---
 
-📈 Output
+## 📈 Output
 
 results/
 
@@ -108,7 +108,7 @@ The implementation is fully reproducible using the provided scripts and ASVspoof
 
 ---
 
-📚 References
+## 📚 References
 
 Wang et al., ASVspoof 2019: A Large-Scale Public Database of Synthesized, Converted and Replay Speech, Interspeech 2019.
 
@@ -123,7 +123,7 @@ Mohammed Kassim Cherukodan,
 Master’s Student – Applied Informatics,
 Research Project (3)
 
-```bash
+
 
 ## 📂 Repository Structure
 
@@ -137,3 +137,5 @@ codefile/
 ├── README.md
 ├── .gitignore
 └── requirements.txt
+
+```bash
