@@ -19,16 +19,18 @@ This work evaluates a voice spoof detection pipeline using:
 
 ## 📂 Repository Structure
 
-```text
-codefile/
+ASVspoof2019-Detection-System/
 ├── src/
-│   ├── plot_scores.py
-│   └── confusionmatrix.py
+│ ├── run_experiment.py # Main script to run experiments
+│ ├── plot_scores.py # Score distribution visualization
+│ └── utils.py # Helper functions
+├── data/
+│ └── protocols/ # ASVspoof protocol files (no audio)
 ├── results/
-│   └── score_hist.png
-├── README.md
-├── .gitignore
-└── requirements.txt
+│ ├── score_hist.png # Generated plots
+│ └── metrics.txt
+├── requirements.txt
+└── README.md
 
 ---
 
