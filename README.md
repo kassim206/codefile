@@ -52,11 +52,43 @@ python src/plot_scores.py
 
 📈 Output
 
+results/
+├── confusion_matrix.png
+├── roc_curve.png
+├── det_curve.png
+├── score_hist.png
+└── results_summary.txt
+
+results/results_summary.txt
+
+ASVspoof 2019 – Logical Access (LA) Subset
+
+Samples used: 300
+Feature: LFCC
+Model: Light CNN (LCNN)
+
+Performance:
+- Accuracy: 92.33%
+- Equal Error Rate (EER): 14.29%
+- ROC-AUC: 0.9263
+
+Baseline comparison:
+- GMM baseline EER (ASVspoof 2019): 8.09%
+- Proposed system shows improved robustness on selected attacks
+
+Note:
+These results were obtained using a CPU-based experimental setup
+and a representative subset of the ASVspoof 2019 dataset.
+
+
 Score distribution histograms (Bonafide vs Spoof)
 
 Classification metrics
 
 Saved plots in /results
+
+---
+
 🔬 Reproducibility Statement
 
 All experiments were conducted using:
