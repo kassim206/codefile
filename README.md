@@ -53,11 +53,16 @@ python src/plot_scores.py
 📈 Output
 
 results/
-├── confusion_matrix.png
-├── roc_curve.png
-├── det_curve.png
-├── score_hist.png
-└── results_summary.txt
+
+ confusion_matrix.png
+
+roc_curve.png
+
+det_curve.png
+
+score_hist.png
+
+results_summary.txt
 
 results/results_summary.txt
 
