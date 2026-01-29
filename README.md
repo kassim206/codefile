@@ -19,6 +19,7 @@ This work evaluates a voice spoof detection pipeline using:
 
 ## 📂 Repository Structure
 
+```text
 codefile/
 ├── src/
 │   ├── plot_scores.py
