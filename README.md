@@ -35,7 +35,7 @@ Audio files must be downloaded separately and placed locally.
 ## ⚙️ How to Run
 
 ### 1️⃣ Install dependencies
-```bash
+
 pip install -r requirements.txt
 2️⃣ Update dataset paths
 
@@ -71,7 +71,7 @@ The implementation is fully reproducible using the provided scripts and ASVspoof
 Wang et al., ASVspoof 2019: A Large-Scale Public Database of Synthesized, Converted and Replay Speech, Interspeech 2019.
 
 Kinnunen et al., Tandem Detection Cost Function for ASV Spoofing, Odyssey 2018.
-
+```bash
 👤 Author
 
 Mohammed Kassim Cherukodan
