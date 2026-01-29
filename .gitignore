@@ -1,0 +1,52 @@
+# ================================
+# Python cache & environment
+# ================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv
+venv/
+
+# ================================
+# VS Code settings
+# ================================
+.vscode/
+
+# ================================
+# Jupyter Notebook checkpoints
+# ================================
+.ipynb_checkpoints/
+
+# ================================
+# Dataset files (VERY IMPORTANT)
+# Do NOT upload ASVspoof audio
+# ================================
+*.wav
+*.flac
+*.mp3
+*.zip
+*.tar
+*.tar.gz
+
+# ================================
+# Large dataset folders
+# ================================
+data/audio/
+ASVspoof2019_LA_train/
+ASVspoof2019_LA_dev/
+ASVspoof2019_LA_eval/
+
+# ================================
+# Logs & temporary outputs
+# ================================
+logs/
+*.log
+
+# ================================
+# OS files
+# ================================
+.DS_Store
+Thumbs.db
