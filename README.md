@@ -48,6 +48,8 @@ python src/run_experiment.py
 4️⃣ Generate plots
 python src/plot_scores.py
 
+---
+
 📈 Output
 
 Score distribution histograms (Bonafide vs Spoof)
@@ -66,14 +68,21 @@ VS Code
 CPU-based execution
 
 The implementation is fully reproducible using the provided scripts and ASVspoof 2019 protocol files.
+
+---
+
 📚 References
 
 Wang et al., ASVspoof 2019: A Large-Scale Public Database of Synthesized, Converted and Replay Speech, Interspeech 2019.
 
 Kinnunen et al., Tandem Detection Cost Function for ASV Spoofing, Odyssey 2018.
-```bash
+
+---
+
+
 👤 Author
 
 Mohammed Kassim Cherukodan
 Master’s Student – Applied Informatics
 Research Project (3)
+```bash
