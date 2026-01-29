@@ -19,8 +19,15 @@ This work evaluates a voice spoof detection pipeline using:
 
 ## 📂 Repository Structure
 
-
-
+codefile/
+├── src/
+│   ├── plot_scores.py
+│   └── confusionmatrix.py
+├── results/
+│   └── score_hist.png
+├── README.md
+├── .gitignore
+└── requirements.txt
 
 ---
 
